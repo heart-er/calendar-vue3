@@ -10,5 +10,5 @@ yarn install /npm install 安装依赖
 ```
 
 ```
-yarn serve/ npm run server 运行开发环境
+yarn serve/ npm run serve 运行开发环境
 ```
